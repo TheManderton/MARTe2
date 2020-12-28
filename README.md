@@ -4,7 +4,7 @@ To avoid the error:
 
 fatal: unable to access [URL]: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
 
-When trying to clone the MARTe2 and MARTe2-components repos.
+When trying to clone the MARTe2 and MARTe2-components repos on WSL2 and docker containers.
 
 # MARTe2
 
