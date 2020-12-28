@@ -1,3 +1,11 @@
+# REASON FOR PERSONAL REPO
+
+To avoid the error:
+
+fatal: unable to access [URL]: GnuTLS recv error (-110): The TLS connection was non-properly terminated.
+
+When trying to clone the MARTe2 and MARTe2-components repos.
+
 # MARTe2
 
 The MARTe software framework is a C++ modular and multi-platform framework for the development of real-time control system applications. 
